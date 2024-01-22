@@ -1,1 +1,1 @@
-# discrete-maths
+# Discrete Mathematics
